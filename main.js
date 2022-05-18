@@ -2,7 +2,7 @@ const LinksSocialMedia = {
   github: 'cassioliveira1',
   youtube: 'jakelinygracielly',
   facebook: 'maykbrito',
-  instagram: 'jakeliny.gracielly',
+  instagram: 'cassioliveira',
   twitter: 'jakelinytec'
 }
 
